@@ -42,7 +42,7 @@ for i in range(len(test)):
 session = {}
 leader_board = {}
 
-TOKEN = "OTcxMzMzODI3NTQ2OTcyMjEx.YnI_Hg.e_" + "xSOMmwZgqkDH0YzYQJVPqMb1Y"
+TOKEN = "OTcxMzMzODI3NTQ2OTcyMjEx.YnI_Hg.n" + "GAtYAb6yiF4rihEcfgCQ-odq4U"
 client = discord.Client()
 
 @client.event
